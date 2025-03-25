@@ -12,9 +12,9 @@ I enjoy turning ideas into real projects and improving my skills every day.
 - **Tools & Platforms:** Firebase, Firestore, Oracle APEX, VS Code  
 
 ## 🚀 Projects  
-- **Room Booking Website** — using MERN stack  
-- **Transport Management System** — using MERN stack  
-- **Bookshop Website** — using HTML, CSS, JavaScript  
+- Room Booking Website (MERN stack)  
+- Transport Management System (MERN stack)  
+- Bookshop Website (HTML, CSS, JavaScript)  
 
 ## 🌱 Currently Learning  
 - Advanced Full Stack Development  
@@ -22,14 +22,12 @@ I enjoy turning ideas into real projects and improving my skills every day.
 - Strengthening Data Structures & Algorithms  
 
 ## 📈 My Profiles  
-- 🧩 **LeetCode:** [leetcode.com/u/123_KB/](https://leetcode.com/u/123_KB/)  
-- 🏆 **Skillrack Rank:** [Skillrack Profile](https://www.skillrack.com/faces/candidate/trackshome.xhtml)  
+- LeetCode: [https://leetcode.com/u/123_KB/](https://leetcode.com/u/123_KB/)  
+- Skillrack: [https://www.skillrack.com/faces/candidate/trackshome.xhtml](https://www.skillrack.com/faces/candidate/trackshome.xhtml)  
 
 ## 📫 Connect with Me  
-- 📧 Email: [your-email@example.com]  
-- 🔗 LinkedIn: [Your LinkedIn URL]  
+- 📧 [kavibharathimg@gmail.com](mailto:kavibharathimg@gmail.com)  
 
----
 
 ✨ *I believe in continuous learning, building, and growing every day.*  
 ✨ *Stay consistent. Stay curious.*  
